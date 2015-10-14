@@ -1,0 +1,74 @@
+.redbox {
+  background-color:  #D2000D;
+  height: 200px;
+  width: 31%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 6px;
+}
+
+.bluebox {
+  background-color: #468EE5;
+  height: 200px;
+  width: 31%;
+  float: left;
+  
+}
+
+.graybox {
+  background-color: #4A4A4A;
+  height: 200px;
+  width: 31%;
+  float: left;
+  margin-left: 30px;
+}
+
+p {
+  font-size: 25px;
+  position: relative;
+  top: 25px;
+ 
+}
+
+body {
+  padding: 15px;
+}
+
+.blue-rect {
+  width: 100%;
+  background: #468EE5;
+  height: 300px;
+  position: relative;
+  top: 20px;
+}
+
+.red-squ {
+  width: 33%;
+  background: #D0000D;
+  height: 300px;
+}
+
+.longshape {
+  margin-top: 75px;
+  background: #468EE5;
+  width: 100%;
+  height: 150px; 
+  position: relative;
+}
+
+.smlls {
+  width:250px;
+  height: 150px;
+  background: #D2000D;
+  position: absolute;
+  right: 0;
+  
+}
+
+.gry {
+  width: 200px;
+  height: 150px;
+  background: #4A4A4A;
+  position: absolute;
+  right: 23px;
+}
